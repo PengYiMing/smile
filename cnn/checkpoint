@@ -1,0 +1,2 @@
+model_checkpoint_path: "smile-model-300"
+all_model_checkpoint_paths: "smile-model-300"
